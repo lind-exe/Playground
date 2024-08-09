@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <p>Hello, hello</p>
+      <p>New feature</p>
     </>
   );
 }
